@@ -2,7 +2,7 @@
 	"plugin": {
 		"name": "Find and Nop",
 		"api": "python2",
-		"description": "A plugin that finds a given assembly pattern and replaces it with nop's.",
+		"description": "A plugin that finds a given assembly pattern and replaces it with nops.",
 		"longdescription": "Since challenges and binaries have sometimes basic anti-debugging features like random breakpoints, this plugin could help to find and replace such patterns.",
 		"license": {
 			"name": "MIT",
