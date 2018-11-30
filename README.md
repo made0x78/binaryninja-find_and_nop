@@ -2,7 +2,7 @@
 This plugin provides a simple feature to replace assembly patterns with nop's in the whole binary. This can be useful to defeat simple anti debugging features like breakpoints (int3 instructions) or anti vm mechanism which have the same pattern in the given binary.
 
 ## Installation
-Just copy ```Find and Nop``` folder to your local binary ninja plugin folder.
+Just clone the ```Find and Nop``` repo to your local binary ninja plugin folder.
 
 ## Usage
 You can trigger the plugin via the right click context menu of binary ninja.
